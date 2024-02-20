@@ -1,0 +1,5 @@
+requests~=2.31.0
+awscli
+flask
+boto3
+selenium~=4.11.2
