@@ -1,5 +1,8 @@
 from selenium import webdriver
 from time import sleep
+
+print("Hello Aviel")
+
 dr = webdriver.Chrome()
 dr.get('file:///C:/Users/barab/Dropbox/Work/04%20Education/DevOps%20Experts/Meeting%20%235%20-%20Testing/tip_calc/index.html')
 
